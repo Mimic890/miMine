@@ -1,4 +1,4 @@
-# Beta 0.8.0 miMine
+# Beta 1.0.0 miMine
 ## Optimized build of mods resource packs and shaders
 
 # Yandex Disk:
