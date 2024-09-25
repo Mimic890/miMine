@@ -1,4 +1,4 @@
-# Beta 1.0.0 miMine
+# 1.0.0 miMine
 ## Optimized build of mods resource packs and shaders
 
 ### miMine - is a unique Minecraftmodpack that combines many popular modifications, creating an exciting and diverse game world.
